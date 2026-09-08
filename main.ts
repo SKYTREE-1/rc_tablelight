@@ -3,5 +3,5 @@ input.onButtonPressed(Button.A, function () {
 })
 
 input.onButtonPressed(Button.B, function () {
-    rc_tablelight.ライトを消す()
+    rc_tablelight.白にしてライトを消す()
 })
