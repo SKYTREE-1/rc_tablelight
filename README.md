@@ -99,4 +99,8 @@ MakeCode でこのリポジトリを編集します。
 #### メタデータ (検索、レンダリングに使用)
 
 * for PXT/microbit
+
+```package
+rc_tablelight=github:SKYTREE-1/rc_tablelight
+```
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
